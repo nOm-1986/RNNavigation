@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Feed = () => {
+const Settings = () => {
   return (
     <View>
-      <Text>Feed</Text>
+      <Text>Settings</Text>
     </View>
   )
 }
 
-export default Feed
+export default Settings
